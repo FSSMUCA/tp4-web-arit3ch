@@ -1,9 +1,42 @@
 h2 {
   font-weight: 700;
-  color: #0d6efd;
+  color: #ef85a8;
 }
 
 .card img {
-  height: 180px;
+  height: 500px;
   object-fit: cover;
 }
+body {
+   background-color: #f7d5e0 !important;  
+}
+
+.navbar {
+  background-color: #ef85a8 !important;  
+}
+
+.navbar .nav-link, .navbar-brand {
+  color: rgb(247, 222, 240) !important;
+}
+
+.btn-primary {
+  background-color: #c2185b !important; 
+  border-color: #c2185b !important;
+}
+
+.btn-success {
+  background-color: #c2185b !important;
+  border-color: #c2185b !important;
+}
+.text-success {
+  color: #c2185b !important;
+}
+
+footer {
+  background-color: #ef85a8 !important; 
+}
+
+footer a {
+  color: #ffebee !important;
+}
+
